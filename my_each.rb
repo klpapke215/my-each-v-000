@@ -9,6 +9,7 @@ def my_each(array)
 
   else
     array
+  end 
 end
 
 array = [1, 2, 3, 4]
