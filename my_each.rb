@@ -7,7 +7,8 @@ def my_each(array)
     i = i + 1
   end
 
-  else array
+  else
+    array
 end
 
 array = [1, 2, 3, 4]
